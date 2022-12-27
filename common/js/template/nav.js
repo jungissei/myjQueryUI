@@ -23,7 +23,7 @@ let menu_global_array = {
         'sub_menu' : [
           {
             'text' : 'jquery.modal',
-            'url' : 'https://github.com/jungissei/jquery.modal',
+            'url' : '/myjQueryUI/jquery.modal',
             'target' : '_blank'
           }
         ]
