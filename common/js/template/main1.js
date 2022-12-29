@@ -7,9 +7,9 @@ document.getElementById('main1').insertAdjacentHTML('beforeend',`
 
       <h2>Content No.1</h2>
 
-      <div class="content_row">
-        <div class="col"><img src="/myjQueryUI/common/img/dog1.jpg" alt="犬"></div>
-        <div class="col">
+      <div class="block_content1">
+        <div class="block_col"><img src="/myjQueryUI/common/img/dog1.jpg" alt="犬"></div>
+        <div class="block_col">
           <div class="txt">
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></div>
@@ -28,9 +28,9 @@ document.getElementById('main1').insertAdjacentHTML('beforeend',`
 
       <h2>Content No.2</h2>
 
-      <div class="content_row row_revers">
-        <div class="col"><img src="/myjQueryUI/common/img/dog2.jpg" alt="犬"></div>
-        <div class="col">
+      <div class="block_content1 block_revers">
+        <div class="block_col"><img src="/myjQueryUI/common/img/dog2.jpg" alt="犬"></div>
+        <div class="block_col">
           <div class="txt">
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></div>
@@ -49,9 +49,9 @@ document.getElementById('main1').insertAdjacentHTML('beforeend',`
 
       <h2>Content No.3</h2>
 
-      <div class="content_row">
-        <div class="col"><img src="/myjQueryUI/common/img/dog3.jpg" alt="犬"></div>
-        <div class="col">
+      <div class="block_content1">
+        <div class="block_col"><img src="/myjQueryUI/common/img/dog3.jpg" alt="犬"></div>
+        <div class="block_col">
           <div class="txt">
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></div>
