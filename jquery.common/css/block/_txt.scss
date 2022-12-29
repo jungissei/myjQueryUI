@@ -1,0 +1,12 @@
+@use "sass:math";
+@use "../base/mixin" as *;
+
+.txt{
+  font-size: 16px;
+
+  p{
+    &:not(:last-child){
+      margin-bottom: 15px;
+    }
+  }
+}

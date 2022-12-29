@@ -1,0 +1,26 @@
+@use "sass:math";
+@use "./mixin" as *;
+
+.page_layout {
+
+  &.layout1{
+    &:not(:last-child){
+      margin-bottom: 55px;
+    }
+
+    .layout_inner {
+
+      .layout_content {
+        max-width: 1180px;
+        margin-right: auto;
+        margin-left: auto;
+
+        .layout_width {
+          max-width: calc(100% - 30px);
+          margin-right: auto;
+          margin-left: auto;
+        }
+      }
+    }
+  }
+}

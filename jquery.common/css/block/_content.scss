@@ -1,0 +1,82 @@
+@use "sass:math";
+@use "../base/mixin" as *;
+
+
+// ----------------------------------------------------------------------------
+// Content Block
+// ----------------------------------------------------------------------------
+.block_content{
+  // --------------------------------------
+  // 【1】画像+テキスト コンテンツ(PC時2カラム)
+  // --------------------------------------
+  &1 {
+    @include mq(pc){
+      display: flex;
+      justify-content: space-between;
+
+      &.block_revers{
+        flex-direction: row-reverse;
+      }
+
+      >.block_col {
+        width: calc(50% - 15px);
+      }
+    }
+
+    @include mq(sp){
+      >.block_col {
+        &:not(:last-child){
+          margin-bottom: 15px;
+        }
+      }
+    }
+  }
+
+  // --------------------------------------
+  // 【2】カード型 コンテンツ
+  // --------------------------------------
+  &2 {
+    @include mq(pc){
+
+      >.content_items{
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+
+        >.content_item {
+          width: calc(100% / 3 - 15px);
+          margin-bottom: 30px;
+          background-color: #fff;
+          padding: 15px;
+          transition: opacity 0.2s, transform 0.2s;
+          cursor: pointer;
+
+          &:hover{
+            opacity: 0.8;
+            transform: scale(1.02);
+          }
+
+          >.item_name{
+            margin-top: 8px;
+            text-align: center;
+          }
+        }
+      }
+    }
+
+    @include mq(sp){
+      >.content_items{
+        >.content_item {
+          margin-bottom: 30px;
+          background-color: #fff;
+          padding: 15px;
+
+          >.item_name{
+            margin-top: 8px;
+            text-align: center;
+          }
+        }
+      }
+    }
+  }
+}
