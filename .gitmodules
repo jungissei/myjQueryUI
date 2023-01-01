@@ -7,3 +7,6 @@
 [submodule "jquery.global_menu"]
 	path = jquery.global_menu
 	url = git@github.com:jungissei/jquery.global_menu.git
+[submodule "jquery.go_top"]
+	path = jquery.go_top
+	url = git@github.com:jungissei/jquery.go_top.git
