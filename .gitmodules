@@ -4,3 +4,6 @@
 [submodule "jquery.common"]
 	path = jquery.common
 	url = git@github.com:jungissei/jquery.common.git
+[submodule "jquery.global_menu"]
+	path = jquery.global_menu
+	url = git@github.com:jungissei/jquery.global_menu.git
