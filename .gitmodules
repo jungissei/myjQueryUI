@@ -16,3 +16,6 @@
 [submodule "jquery"]
 	path = jquery
 	url = git@github.com:jungissei/jquery.git
+[submodule "jquery-smooth-scroll"]
+	path = jquery-smooth-scroll
+	url = git@github.com:jungissei/jquery-smooth-scroll.git
