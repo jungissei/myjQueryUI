@@ -22,3 +22,15 @@
 [submodule "body-scroll-lock"]
 	path = body-scroll-lock
 	url = git@github.com:jungissei/body-scroll-lock.git
+[submodule "yubinbango"]
+	path = yubinbango
+	url = git@github.com:jungissei/yubinbango.git
+[submodule "flatpickr"]
+	path = flatpickr
+	url = git@github.com:jungissei/flatpickr.git
+[submodule "jquery-validation"]
+	path = jquery-validation
+	url = git@github.com:jungissei/jquery-validation.git
+[submodule "jquery.form"]
+	path = jquery.form
+	url = git@github.com:jungissei/jquery.form.git
