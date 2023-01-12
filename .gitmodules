@@ -19,3 +19,6 @@
 [submodule "jquery-smooth-scroll"]
 	path = jquery-smooth-scroll
 	url = git@github.com:jungissei/jquery-smooth-scroll.git
+[submodule "body-scroll-lock"]
+	path = body-scroll-lock
+	url = git@github.com:jungissei/body-scroll-lock.git
