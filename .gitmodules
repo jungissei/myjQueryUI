@@ -13,9 +13,6 @@
 [submodule "jquery.scroll_event"]
 	path = jquery.scroll_event
 	url = git@github.com:jungissei/jquery.scroll_event.git
-[submodule "jquery"]
-	path = jquery
-	url = git@github.com:jungissei/jquery.git
 [submodule "jquery-smooth-scroll"]
 	path = jquery-smooth-scroll
 	url = git@github.com:jungissei/jquery-smooth-scroll.git
