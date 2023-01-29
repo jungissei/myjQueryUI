@@ -31,3 +31,6 @@
 [submodule "jquery.form"]
 	path = jquery.form
 	url = git@github.com:jungissei/jquery.form.git
+[submodule "jquery.accordion"]
+	path = jquery.accordion
+	url = git@github.com:jungissei/jquery.accordion.git
