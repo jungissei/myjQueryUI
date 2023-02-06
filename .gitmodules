@@ -1,36 +1,48 @@
 [submodule "jquery.modal"]
-	path = jquery.modal
-	url = git@github.com:jungissei/jquery.modal.git
+path = jquery.modal
+url = git@github.com:jungissei/jquery.modal.git
+branch = main
 [submodule "jquery.common"]
-	path = jquery.common
-	url = git@github.com:jungissei/jquery.common.git
+path = jquery.common
+url = git@github.com:jungissei/jquery.common.git
+branch = main
 [submodule "jquery.global_menu"]
-	path = jquery.global_menu
-	url = git@github.com:jungissei/jquery.global_menu.git
+path = jquery.global_menu
+url = git@github.com:jungissei/jquery.global_menu.git
+branch = main
 [submodule "jquery.go_top"]
-	path = jquery.go_top
-	url = git@github.com:jungissei/jquery.go_top.git
+path = jquery.go_top
+url = git@github.com:jungissei/jquery.go_top.git
+branch = main
 [submodule "jquery.scroll_event"]
-	path = jquery.scroll_event
-	url = git@github.com:jungissei/jquery.scroll_event.git
+path = jquery.scroll_event
+url = git@github.com:jungissei/jquery.scroll_event.git
+branch = main
 [submodule "jquery-smooth-scroll"]
-	path = jquery-smooth-scroll
-	url = git@github.com:jungissei/jquery-smooth-scroll.git
+path = jquery-smooth-scroll
+url = git@github.com:jungissei/jquery-smooth-scroll.git
+branch = mymain
 [submodule "body-scroll-lock"]
-	path = body-scroll-lock
-	url = git@github.com:jungissei/body-scroll-lock.git
+path = body-scroll-lock
+url = git@github.com:jungissei/body-scroll-lock.git
+branch = mymain
 [submodule "yubinbango"]
-	path = yubinbango
-	url = git@github.com:jungissei/yubinbango.git
+path = yubinbango
+url = git@github.com:jungissei/yubinbango.git
+branch = mymain
 [submodule "flatpickr"]
-	path = flatpickr
-	url = git@github.com:jungissei/flatpickr.git
+path = flatpickr
+url = git@github.com:jungissei/flatpickr.git
+branch = mymain
 [submodule "jquery-validation"]
-	path = jquery-validation
-	url = git@github.com:jungissei/jquery-validation.git
+path = jquery-validation
+url = git@github.com:jungissei/jquery-validation.git
+branch = mymain
 [submodule "jquery.form"]
-	path = jquery.form
-	url = git@github.com:jungissei/jquery.form.git
+path = jquery.form
+url = git@github.com:jungissei/jquery.form.git
+branch = main
 [submodule "jquery.accordion"]
-	path = jquery.accordion
-	url = git@github.com:jungissei/jquery.accordion.git
+path = jquery.accordion
+url = git@github.com:jungissei/jquery.accordion.git
+branch = main
