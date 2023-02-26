@@ -46,3 +46,6 @@ branch = main
 path = jquery.accordion
 url = git@github.com:jungissei/jquery.accordion.git
 branch = main
+[submodule "jquery.hamburger_menu"]
+	path = jquery.hamburger_menu
+	url = git@github.com:jungissei/jquery.hamburger_menu.git
