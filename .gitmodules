@@ -49,3 +49,6 @@ branch = main
 [submodule "jquery.hamburger_menu"]
 	path = jquery.hamburger_menu
 	url = git@github.com:jungissei/jquery.hamburger_menu.git
+[submodule "simplebar"]
+	path = simplebar
+	url = git@github.com:jungissei/simplebar.git
